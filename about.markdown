@@ -2,9 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+lang:	en
+ref:	about
 ---
 
-This is my blog on 2 of my passions: science and drawing.
+Blog about science and art
 
 <!-- You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

@@ -4,6 +4,8 @@ title:  "Inktober 2020"
 date:   2020-10-14 13:56:01 +0200
 categories: drawing
 tag: inktober2020
+lang: en
+ref: 0
 ---
 Hello,
 
