@@ -25,7 +25,7 @@ During a visit to Monaco's zoological garden, I discovered the amazingly blue de
 Being confined at home, I had time to work on improving my drawing skills, and experimented more abstract representations of pictures of animals.
 So I took my animal encyclopedia and picked the tree frog.
 
-![real-abstract-frogs]({{site.url}}/assets/frogs-simplified.png)
+![real-abstract-frogs]({{site.url}}/assets/frogs-simplified.jpg)
 
 
 ## Sumi-e style frog
