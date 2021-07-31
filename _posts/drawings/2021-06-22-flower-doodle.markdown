@@ -18,13 +18,11 @@ Today, I will show a few doodles I did with flowers and plants, with inspiration
 The idea that CeeCee gives (and which I loved) is to make our own booklet of doodles, 
 that we can use later in compositions.
 
-![flower-doodle-1]({{site.url}}/assets/flower-doodle1.jpeg)
-
-![flower-doodle-2]({{site.url}}/assets/flower-doodle2.jpeg)
+![flower-doodle]({{site.url}}/assets/flower-doodle.png)
 
 # Composition of flower doodles
 
 Now, we can turn those doodles into a unique composition. And voilà! 
 
-![flower-composition]({{site.url}}/assets/flower-composition.jpeg)
+![flower-composition]({{site.url}}/assets/flower-composition.png)
 
