@@ -22,8 +22,8 @@ title: Lilie's Art-Sci blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, I'm Lilie. Welcome to my blog on arts and science, sometimes mixed together. You will find here some of my drawings and things I find cool in science.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/lilie_artsci" # the subpath of your site, e.g. /blog
+url: "https://aboisbunon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
