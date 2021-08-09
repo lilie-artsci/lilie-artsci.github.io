@@ -1,5 +1,0 @@
-# Pour voir un apercu du site web
-bundle exec jekyll serve
-
-# Pour mettre a jour le site web
-bundle exec jekyll build
