@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lilie Artsci&#39;s blog</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Lilie Artsci&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>english</title>
+      <link>https://example.org/tags/english/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drawings</title>
+      <link>https://example.org/tags/drawings/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/drawings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessins</title>
+      <link>https://example.org/tags/dessins/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/dessins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drawing</title>
+      <link>https://example.org/tags/drawing/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/drawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>french</title>
+      <link>https://example.org/tags/french/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/french/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
