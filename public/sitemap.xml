@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lilie-artsci.github.io/2021/10/ada-lovelace-day/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lilie-artsci.github.io/categories/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/tags/drawings/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/tags/english/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lilie-artsci.github.io/2021/12/japanese-style-characters/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/posts/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lilie-artsci.github.io/tags/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lilie-artsci.github.io/categories/watercolor/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lilie-artsci.github.io/2021/10/ada-lovelace-day/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/tags/science/</loc>
@@ -26,17 +35,11 @@
     <loc>https://lilie-artsci.github.io/categories/science/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lilie-artsci.github.io/tags/</loc>
-    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lilie-artsci.github.io/2021/10/autumn-perfume/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/categories/plants/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lilie-artsci.github.io/2021/10/welcome-to-lilie-artscis-blog/</loc>
-    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/categories/animals/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
@@ -75,5 +78,7 @@
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lilie-artsci.github.io/archives/</loc>
+  </url><url>
+    <loc>https://lilie-artsci.github.io/1/01/welcome-to-lilie-artscis-blog/</loc>
   </url>
 </urlset>
