@@ -13,7 +13,7 @@ thumbnailImage: images/psycho-cat.jpeg
 
 Hey!
 
-Here is a small drawing of my cat, whose favorite posture is to lie on the bed.
+Here is a small drawing of my cat, whose favorite posture is to lie on the back.
 
 She's often in that weird mood in-between cuddly and psycho-cat, 
 lying a trap full of claws when we try to pet it :)
