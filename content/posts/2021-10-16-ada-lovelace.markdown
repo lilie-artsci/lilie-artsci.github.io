@@ -4,6 +4,7 @@ title: Ada Lovelace Day
 date: 2021-10-16
 categories: 
 - science
+- WomenInTech
 tags: 
 - english
 - drawings
