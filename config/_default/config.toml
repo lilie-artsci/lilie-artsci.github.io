@@ -13,8 +13,6 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://lilie-artsci.github.io/"
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
 title = "Lilie Artsci's blog"
 theme = "tranquilpeak"
 # disqusShortname = "hugo-tranquilpeak-theme"
@@ -51,47 +49,108 @@ canonifyurls = true
   #picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   picture = "images/my_logo.png"
 
-# ------------
-# Sidebar menu
-# ------------
-[[menu.main]]
-  weight = 1
+
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+[languages]
+  [languages.en]
+    title = "Lilie Artsci's blog"
+    weight = 1
+    LanguageName = "en"
+    contentDir = "content/en"
+    [languages.en.menu]
+[[languages.en.menu.main]]
+  weight = 100
   identifier = "home"
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
-[[menu.main]]
-  weight = 2
+[[languages.en.menu.main]]
+  weight = 200
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
-[[menu.main]]
-  weight = 3
+[[languages.en.menu.main]]
+  weight = 300
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
-[[menu.main]]
-  weight = 4
+[[languages.en.menu.main]]
+  weight = 400
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 5
+[[languages.en.menu.main]]
+  weight = 500
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   url = "/#about"
-[[menu.main]]
-  weight = 6
+[[languages.en.menu.main]]
+  weight = 600
   identifier = "french"
   name = "francais"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-language\"></i>"
-  url = "/tags/french/"
+  url = "/fr"
 
-[[menu.misc]]
+[[languages.en.menu.misc]]
+  weight = 1
+  identifier = "rss"
+  name = "RSS"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
+  url = "/index.xml"
+
+  [languages.fr]
+    title = 'Lilie Artsci'
+    weight = 2
+    LanguageName = "fr"
+    contentDir = "content/fr"
+    description = "Blog de peinture et science"
+    bio = "Mon blog sur les sciences et l'art"
+    [languages.fr.params]
+      description = "Blog de Lilie Artsci"
+    [languages.fr.menu]
+[[languages.fr.menu.main]]
+  weight = 100
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+  url = "/fr"
+[[languages.fr.menu.main]]
+  weight = 200
+  identifier = "categories"
+  name = "Catégories"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
+  url = "/fr/categories"
+[[languages.fr.menu.main]]
+  weight = 300
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
+  url = "/fr/tags"
+[[languages.fr.menu.main]]
+  weight = 400
+  identifier = "archives"
+  name = "Archives"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
+  url = "/fr/archives"
+[[languages.fr.menu.main]]
+  weight = 500
+  identifier = "about"
+  name = "A propos"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  url = "/fr/#about"
+[[languages.fr.menu.main]]
+  weight = 600
+  identifier = "english"
+  name = "english"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-language\"></i>"
+  url = ".."
+
+[[languages.fr.menu.misc]]
   weight = 1
   identifier = "rss"
   name = "RSS"
