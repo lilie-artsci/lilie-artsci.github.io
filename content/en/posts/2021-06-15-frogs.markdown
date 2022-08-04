@@ -6,7 +6,6 @@ draft: false
 categories: 
 - animals
 tags: 
-- english
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/blue-frog_frame.jpg
@@ -17,7 +16,7 @@ This post will be about frogs :)
 
 ## Blue dendrobate
 
-During a visit to Monaco's zoological garden, I discovered the amazingly blue dendrobate. I then tried to capture it with watercolor ink
+During a visit to a zoological garden, I discovered the amazingly blue dendrobate. I then tried to capture it with watercolor ink
 (which I think I managed quite well ;)).
 
 

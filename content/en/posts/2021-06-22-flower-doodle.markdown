@@ -5,7 +5,6 @@ date: 2021-06-21
 categories: 
 - flowers
 tags: 
-- english
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/flower-composition.png

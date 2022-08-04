@@ -5,7 +5,6 @@ date: 2021-10-11
 categories: 
 - plants
 tags: 
-- english
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/autumn-leaves.jpeg

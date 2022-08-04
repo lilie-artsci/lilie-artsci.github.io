@@ -6,7 +6,6 @@ draft: false
 categories: 
 - inktober2020
 tags: 
-- english
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/inktober2020_5-blade.png

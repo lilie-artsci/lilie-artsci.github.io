@@ -1,0 +1,39 @@
+---
+layout: post
+title: Frogs
+date: 2021-06-15
+draft: false
+categories: 
+- animaux
+tags: 
+- dessins
+thumbnailImagePosition: left
+thumbnailImage: images/blue-frog_frame.jpg
+---
+Bonjour,
+
+Dans ce billet, on va voir des grenouilles :)
+
+## Dendrobate bleue 
+
+Pendant une visite dans un jardin zoologique, j'ai découvert la fantastatique  dendrobate bleue.
+J'ai tenté de la peindre avec de l'encre aquarelle (et je trouve que je m'en suis plutôt bien sortie ;)).
+
+
+![dendrobate-bleue](/images/blue-frog_frame.jpg)
+
+
+## Du réel à l'abstrait
+
+Etant confinée à la maison, j'ai eu le temps de travailler à améliorer mes compétences en dessin, et d'expérimenter les représentations plus abstraites d'animaux.
+J'ai donc pris pour ça mon encyclopédie préférée et choisi la grenouille arboricole.
+
+![grenouille-reel-abstrait](/images/frogs-simplified.jpg)
+
+
+## Grenouille en style sumi-e
+
+Pour finir, quand je suis arrivée à une représentation simplifiée de la grenouille qui me plaisait, je l'ai essayée en sumi-e, style japonais qui consiste à représenter l'essence du sujet avec le minimum de trait au pinceau et à l'encre de chine (sur papier de riz).
+
+![grenouille-sumie](/images/frog-sumie.jpg)
+

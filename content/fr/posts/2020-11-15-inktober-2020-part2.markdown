@@ -6,7 +6,7 @@ draft: false
 categories: 
 - inktober2020
 tags: 
-- drawings
+- dessins
 thumbnailImagePosition: left
 thumbnailImage: images/inktober2020_5-blade.png
 ---
@@ -42,21 +42,22 @@ Je l'ai dessiné directement à l'encre dans mon carnet de dessins, et comme je 
 
 
 ## No.8: Teeth (dents)
-I started looking at pictures of smiles and practiced that for a few drawings (which I really liked cause I never managed to draw teeth in smiles well before), 
-but then I thought I would very much like to do something else. 
-I hesitated between the jaw of a mega-shark, that I saw at <a href="https://churaumi.okinawa/en/">Okinawa's Churaumi Aquarium</a>, and a saber toothed cat, which I find fascinating too.
-I chose the latter one, only because I couldn't really find a nice picture of the former in my photo album nor online... 
-The original picture is on the Wikipedia's page of <a href="https://commons.wikimedia.org/wiki/File:Smilodon_head.jpg#/media/File:Smilodon_head.jpg">Smilodon</a>.
+J'avais commencé à regarder quelques images de sourires et à m'entrainer avec (ce que j'ai beaucoup aimé car je n'avais jamais réussi à bien dessiné les dents des sourires avant), 
+mais j'ai eu ensuite envie de dessiner quelque chose d'autre.
+J'ai hésité entre la machoire d'un mega-requin, que j'avais à l'<a href="https://churaumi.okinawa/en/">Aquarium d'Okinawa</a>, et un tigre à dent de sabre, que je trouve tout aussi fascinant.
+J'ai choisi le dernier, surtout parce que je n'ai pas réussi à trouver une bonne photo du méga-requin dans mon album ou en ligne...
+L'image d'origine vient de la page wikipédia du <a href="https://commons.wikimedia.org/wiki/File:Smilodon_head.jpg#/media/File:Smilodon_head.jpg">Smilodon</a>.
 
 
 ![Inktober-no8-teeth](/images/inktober2020_8-teeth.png)
 
 
 ## No.10: Hope (espoir)
-This one looks simple, but it actually took me some time to train both for the clouds and the rainbow. 
-The rainbow was indeed the toughest, because the yellow would get mixed almost completely with the other colours.
+Celui-là a l'air très simple, mais ça m'a pris pas mal de temps à m'entrainer à la fois pour les nuages et pour l'arc en ciel.
+L'arc en ciel était en effet vraiment dur, parce que le jaune se mélangeait presque complètement avec les autres couleurs.
 
 ![Inktober-no10-hope](/images/inktober2020_10-hope.png)
 
-I actually never drew no. 9 (throw) nor the other ones, many of them did not inspire much and I found it difficult to find time every day for that.
-The full list is <a href="https://inktober.com/rules">here</a>.
+Je n'ai rien fait pour la suite du challenge, en partie parce que certains mots ne m'inspiraient pas beaucoup, et en partie parce que c'était difficile de trouver le temps chaque jour.
+
+La list complète est <a href="https://inktober.com/rules">ici</a>.
