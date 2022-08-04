@@ -3,10 +3,11 @@ layout: post
 title: Japanese style characters
 date: 2021-12-19
 categories: 
-- watercolor
+- characters
 tags: 
-- english
 - drawings
+- watercolor
+- characters
 thumbnailImagePosition: left
 thumbnailImage: images/petite-fille-kimono.png
 ---

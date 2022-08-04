@@ -3,11 +3,9 @@ layout: post
 title: Insects
 date: 2022-03-19
 categories: 
-- drawing
-- painting
-- insects
+- nature
 tags: 
-- english
+- animals
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/blue-insect.png

@@ -4,8 +4,9 @@ title: Frogs
 date: 2021-06-15
 draft: false
 categories: 
-- animals
+- nature
 tags: 
+- animals
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/blue-frog_frame.jpg

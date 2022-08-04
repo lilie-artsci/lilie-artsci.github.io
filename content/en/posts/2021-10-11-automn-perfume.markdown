@@ -3,8 +3,9 @@ layout: post
 title: Autumn Perfume
 date: 2021-10-11
 categories: 
-- plants
+- nature
 tags: 
+- plants
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/autumn-leaves.jpeg

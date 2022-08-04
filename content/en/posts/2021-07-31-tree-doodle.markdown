@@ -3,8 +3,9 @@ layout: post
 title: Plant and Tree Doodles
 date: 2021-07-31
 categories: 
-- animals
+- nature
 tags: 
+- plants
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/tree-composition.jpeg

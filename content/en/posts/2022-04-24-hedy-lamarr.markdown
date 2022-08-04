@@ -6,6 +6,7 @@ categories:
 - science
 - WomenInTech
 tags: 
+- WomenInTech
 - drawings
 - science
 thumbnailImagePosition: left

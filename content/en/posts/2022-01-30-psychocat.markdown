@@ -3,9 +3,8 @@ layout: post
 title: Psycho-cat
 date: 2022-01-30
 categories: 
-- drawing
+- nature
 tags: 
-- english
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/psycho-cat.jpeg

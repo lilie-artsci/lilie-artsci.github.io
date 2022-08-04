@@ -3,8 +3,9 @@ layout: post
 title: Flower Doodles
 date: 2021-06-21
 categories: 
-- flowers
+- nature
 tags: 
+- plants
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/flower-composition.png
