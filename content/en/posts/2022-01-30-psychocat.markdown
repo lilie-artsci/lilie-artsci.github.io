@@ -5,6 +5,7 @@ date: 2022-01-30
 categories: 
 - nature
 tags: 
+- animal
 - drawings
 thumbnailImagePosition: left
 thumbnailImage: images/psycho-cat.jpeg

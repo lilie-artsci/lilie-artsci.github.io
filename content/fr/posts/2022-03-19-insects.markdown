@@ -1,0 +1,26 @@
+---
+layout: post
+title: Insectes
+date: 2022-03-19
+categories: 
+- nature
+tags: 
+- animaux
+- dessins
+thumbnailImagePosition: left
+thumbnailImage: images/blue-insect.png
+---
+
+Hello,
+
+J'ai recemment pris un cours en ligne par [Laura McKendry](https://lauramckendry.com/), dont j'aime beaucoup le style libéré et moderne, et pour ce cours j'ai fait quelques dessins d'insectes.
+J'ai découvert que je les trouve vraiment agréable à dessiner et peindre !
+
+Le premier est fait avec quelques traits rapides de pinceaux à l'aquarelle, puis j'ai dessiné les détails aux crayons de couleur.
+
+![insectes-1](/images/insects-2.jpeg)
+![insectes-2](/images/insects-1.jpeg)
+
+Pour ce second, j'ai essayé de les peindre en train de se déplacer dans différentes directions pour qu'ils aient l'air plus vivants :)
+
+![insectes-marchant](/images/insects-walking.jpeg)
