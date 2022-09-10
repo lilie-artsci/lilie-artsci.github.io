@@ -179,11 +179,12 @@ defaultContentLanguage = "en-us"
   # Customize date format use to render blog post date, categories and other
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
-  # Default format is: January 2, 2006
-  # dateFormat = "2006 January 2"
-  singleDateFormat = "2/1/2006"
-  indexDateFormat = "2/1/2006"
-  listDateFormat = "2/1/2006"
+  # Default format is: January 02, 2006
+  dateFormat = "02/01/2006"
+  # dateFormat = ":date_short"
+  singleDateFormat = "02/01/2006"
+  indexDateFormat = "02/01/2006"
+  listDateFormat = "02/01/2006"
 
   # ---------------------------
   # Posts related configuration
