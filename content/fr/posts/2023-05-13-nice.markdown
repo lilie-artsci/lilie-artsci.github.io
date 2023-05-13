@@ -1,0 +1,25 @@
+---
+layout: post
+title: Nice
+date: 2023-05-13
+categories: 
+- landscape
+- buildings
+tags: 
+- painting
+thumbnailImagePosition: left
+thumbnailImage: images/nice-plage-detail.jpg
+---
+
+Bonjour!
+
+Je travaille depuis quelques temps sur un livre pop-up des endroits où j'ai vécu, pour le cours Domestika de [Sylvia Hijano](https://www.domestika.org/fr/courses/958-creation-de-livres-pop-up), que je trouve vraiment génial !
+
+Je viens de finir la page sur Nice, où j'ai passé environ 8 ans. Voici les détails de la page.
+
+Le quartier de Cimiez, près duquel j'habitais, avec les arènes romaines, la maison Matisse, et le monastère de Cimiez :
+![cimiez](/images/nice-cimiez.jpg)
+
+Et voici le Negresco, un hôtel de luxe près de la plage (les lignes sont pour le pliage du pop-up):
+![negresco](/images/negresco.jpg)
+
