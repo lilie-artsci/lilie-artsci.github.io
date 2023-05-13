@@ -4,10 +4,10 @@ title: Corsica landscape
 date: 2022-09-10
 categories: 
 - nature
-tags: 
-- painting
 - landscape
 - trips
+tags: 
+- painting
 thumbnailImagePosition: left
 thumbnailImage: images/corse-cargese.jpeg
 ---

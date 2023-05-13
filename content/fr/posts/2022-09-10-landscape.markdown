@@ -4,10 +4,10 @@ title: Paysages corses
 date: 2022-09-10
 categories: 
 - nature
-tags: 
-- peinture
 - paysage
 - voyage
+tags: 
+- peinture
 thumbnailImagePosition: left
 thumbnailImage: images/corse-cargese.jpeg
 ---

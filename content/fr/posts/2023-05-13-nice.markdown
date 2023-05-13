@@ -3,8 +3,8 @@ layout: post
 title: Nice
 date: 2023-05-13
 categories: 
-- landscape
-- buildings
+- paysages
+- monuments
 tags: 
 - painting
 thumbnailImagePosition: left
