@@ -3,7 +3,7 @@ layout: post
 title: The Magpie and the Mermaid
 date: 2023-06-07
 categories: 
-- birds 
+- fantasy 
 tags: 
 - painting
 - watercolour

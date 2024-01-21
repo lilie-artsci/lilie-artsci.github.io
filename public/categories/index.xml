@@ -5,13 +5,22 @@
     <link>https://lilie-artsci.github.io/categories/</link>
     <description>Recent content in Categories on Lilie Artsci&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lilie-artsci.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lilie-artsci.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>birds</title>
-      <link>https://lilie-artsci.github.io/categories/birds/</link>
+      <title>nature</title>
+      <link>https://lilie-artsci.github.io/categories/nature/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilie-artsci.github.io/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fantasy</title>
+      <link>https://lilie-artsci.github.io/categories/fantasy/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lilie-artsci.github.io/categories/birds/</guid>
+      <guid>https://lilie-artsci.github.io/categories/fantasy/</guid>
       <description></description>
     </item>
     
@@ -39,15 +48,6 @@
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lilie-artsci.github.io/categories/doodle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nature</title>
-      <link>https://lilie-artsci.github.io/categories/nature/</link>
-      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilie-artsci.github.io/categories/nature/</guid>
       <description></description>
     </item>
     

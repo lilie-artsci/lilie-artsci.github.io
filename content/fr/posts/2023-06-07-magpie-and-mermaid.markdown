@@ -3,7 +3,7 @@ layout: post
 title: La sirène et la pie
 date: 2023-06-07
 categories: 
-- oiseaux
+- fantaisie
 tags: 
 - peinture
 - aquarelle
