@@ -6,7 +6,7 @@ categories:
 - paysages
 - monuments
 tags: 
-- painting
+- peinture
 thumbnailImagePosition: left
 thumbnailImage: images/nice-plage-detail.jpg
 ---
