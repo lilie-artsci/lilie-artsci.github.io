@@ -50,10 +50,11 @@ canonifyurls = true
   picture = "images/my_logo.png"
 
 
-languageCode = "en-us"
-defaultContentLanguage = "en-us"
+languageCode = "en-US"
+defaultContentLanguage = "en-US"
 [languages]
   [languages.en]
+    disabled = false
     title = "Lilie Artsci's blog"
     weight = 1
     LanguageName = "en"
@@ -104,14 +105,15 @@ defaultContentLanguage = "en-us"
   url = "/index.xml"
 
   [languages.fr]
+    disabled = false
     title = 'Lilie Artsci'
     weight = 2
     LanguageName = "fr"
     contentDir = "content/fr"
     description = "Blog de peinture et science"
-    bio = "Mon blog sur les sciences et l'art"
     [languages.fr.params]
       description = "Blog de Lilie Artsci"
+      bio = "Mon blog sur les sciences et l'art"
     [languages.fr.menu]
 [[languages.fr.menu.main]]
   weight = 100
