@@ -14,7 +14,7 @@
 
 baseURL = "https://lilie-artsci.github.io/"
 title = "Lilie Artsci's blog"
-theme = "tranquilpeak"
+theme = "hugo-tranquilpeak-theme"
 # disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
