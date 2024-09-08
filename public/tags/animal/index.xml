@@ -4,7 +4,7 @@
     <title>Animal on Lilie Artsci&#39;s blog</title>
     <link>https://lilie-artsci.github.io/tags/animal/</link>
     <description>Recent content in Animal on Lilie Artsci&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lilie-artsci.github.io/tags/animal/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://lilie-artsci.github.io/2022/01/psycho-cat/</link>
       <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://lilie-artsci.github.io/2022/01/psycho-cat/</guid>
-      <description>Hey!&#xA;Here is a small drawing of my cat, whose favorite posture is to lie on the back.&#xA;She&amp;rsquo;s often in that weird mood in-between cuddly and psycho-cat, lying a trap full of claws when we try to pet it :)</description>
+      <description>&lt;p&gt;Hey!&lt;/p&gt;&#xA;&lt;p&gt;Here is a small drawing of my cat, whose favorite posture is to lie on the back.&lt;/p&gt;&#xA;&lt;p&gt;She&amp;rsquo;s often in that weird mood in-between cuddly and psycho-cat,&#xA;lying a trap full of claws when we try to pet it :)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;psycho-cat&#34; src=&#34;https://lilie-artsci.github.io/images/psycho-cat.jpeg&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
