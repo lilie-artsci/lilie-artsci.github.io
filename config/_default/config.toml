@@ -17,8 +17,10 @@ title = "Lilie Artsci's blog"
 theme = "hugo-tranquilpeak-theme"
 # disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
-paginate = 7
 canonifyurls = true
+#paginate = 7
+[pagination]
+  pagerSize = 7
 
 [permalinks]
   posts = "/:year/:month/:slug/"
@@ -37,18 +39,6 @@ canonifyurls = true
     endLevel = 3
     ordered = false
     startLevel = 1
-
-# ------
-# Author
-# ------
-[author]
-  name = "Lilie Artsci"
-  bio = "My blog about science and art"
-  # Your profile picture
-  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  #picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
-  picture = "images/my_logo.png"
-
 
 languageCode = "en-US"
 defaultContentLanguage = "en-US"
@@ -166,6 +156,13 @@ defaultContentLanguage = "en-US"
   # -----------
   # Description
   # -----------
+  author = "Lilie Artsci"
+  bio = "My blog about science and art"
+    # Your profile picture
+    # Overwritten by your gravatar image if `author.gravatarEmail` is filled
+    #picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "images/my_logo.png"
+
   description = "Lilie Artsci's blog"
 
   # ------------------
